@@ -1,2 +1,2 @@
-:HL["/huang-liqiang-art-2026/_next/static/css/ccd6519a236002c5.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"MsEg4OV-ly0G0dyR7LTFe"}
+:HL["/huang-liqiang-art-2026/_next/static/css/26967ddfa3c91f50.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"mNw1lOV7tc6muXahVJLh_"}
